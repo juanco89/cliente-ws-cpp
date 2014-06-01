@@ -1,0 +1,24 @@
+
+# Linux
+*~
+~*
+
+# KDE
+.directory
+
+# Netbeasn
+*/build/*
+*/dist/*
+*/nbproject/*
+!*/nbproject/project.properties
+!*/nbproject/project.xml
+
+# Java
+*.class
+*.war
+*.ear
+
+# CPP
+
+*/build/*
+*.o
