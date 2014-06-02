@@ -1,0 +1,17 @@
+# Linux
+~*
+*~
+
+# KDE
+.directory
+
+# Kdevelop
+.kdev4/*
+*.kdev4
+
+# CPP
+*.o
+*.a
+*.so
+build/*
+
